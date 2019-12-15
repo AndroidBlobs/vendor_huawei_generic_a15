@@ -1,0 +1,50 @@
+[
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 0
+ },
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 1
+ },
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 2
+ },
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 3
+ },
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 4
+ }, 
+ {
+    "config_filename": ".\/config-2.json",
+	"FairLight_Type": 5
+ },
+  {
+    "config_filename": ".\/config-stainedglass.json",
+	"FairLight_Type": 8
+ },
+  {
+    "config_filename": ".\/config-neonlight6.json",
+	"FairLight_Type": 9
+ },
+  {
+    "config_filename": ".\/config-elephant-blind6.json",
+	"FairLight_Type": 10
+ },
+ {
+    "config_filename": ".\/config-leafyshade.json",
+	"FairLight_Type": 12
+ },
+  {
+    "config_filename": ".\/config-booth2.json",
+	"FairLight_Type": 15
+ },
+   {
+    "config_filename": ".\/config-newstudiolight.json",
+	"FairLight_Type": 16
+ }
+]

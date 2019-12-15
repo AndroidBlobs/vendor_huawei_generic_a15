@@ -1,0 +1,132 @@
+newmtl HeadFaceEars
+Kd 0.694118 0.694111 0.694111
+Ks 0.156863 0.156861 0.156861
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0.23
+diffuse_intensity 1
+specular_intensity 1
+bump_and_normal_repeat 8
+bump_and_normal_strength 0.2
+envmap_additive 0
+envmap_intensity 1
+envmap_rot_horizontal 0
+envmap_rot_vertical 0
+envmap_uv_scale 1
+norm normal_skin.png
+
+newmtl LeftEye
+Kd 0.721569 0.721561 0.721561
+Ks 0.470588 0.468934 0.468934
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0.04
+diffuse_intensity 1
+specular_intensity 0.5
+bump_and_normal_repeat 1
+bump_and_normal_strength 1
+envmap_additive 0
+envmap_intensity 0.1
+envmap_rot_horizontal 0
+envmap_rot_vertical 0.1
+envmap_uv_scale 3
+refl type-b/refl_left_eye.png
+
+newmtl RightEye
+Kd 0.721569 0.721561 0.721561
+Ks 0.470588 0.468934 0.468934
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0.04
+diffuse_intensity 1
+specular_intensity 0.5
+bump_and_normal_repeat 1
+bump_and_normal_strength 1
+envmap_additive 0
+envmap_intensity 0.1
+envmap_rot_horizontal 0
+envmap_rot_vertical 0.1
+envmap_uv_scale 3
+refl type-b/refl_right_eye.png
+
+newmtl UpperLip
+Kd 0.54902 0.549014 0.549014
+Ks 1e-06 9.9999e-07 9.9999e-07
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0
+diffuse_intensity 1
+specular_intensity 1
+bump_and_normal_repeat 1
+bump_and_normal_strength 0.6
+envmap_additive 0
+envmap_intensity 0.5
+envmap_rot_horizontal 0
+envmap_rot_vertical 0
+envmap_uv_scale 1
+norm normal_skin.png
+
+newmtl LowerLip
+Kd 0.54902 0.549014 0.549014
+Ks 1e-06 9.9999e-07 9.9999e-07
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0
+diffuse_intensity 1
+specular_intensity 1
+bump_and_normal_repeat 1
+bump_and_normal_strength 0.6
+envmap_additive 0
+envmap_intensity 0.5
+envmap_rot_horizontal 0
+envmap_rot_vertical 0
+envmap_uv_scale 1
+norm normal_skin.png
+
+newmtl InnerMouse
+Kd 0.7 0.7 0.7
+Ks 0 0 0
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 1
+diffuse_intensity 1
+specular_intensity 1
+bump_and_normal_repeat 1
+bump_and_normal_strength 1
+envmap_additive 0
+envmap_intensity 1
+envmap_rot_horizontal 0
+envmap_rot_vertical 0
+envmap_uv_scale 1
+
+newmtl Nose
+Kd 0.694118 0.694111 0.694111
+Ks 0.156863 0.156861 0.156861
+Ni 1
+illum 2
+Ke 0.0 0.0 0.0
+diffuse_roughness 1
+specular_roughness 0.23
+diffuse_intensity 1
+specular_intensity 1
+bump_and_normal_repeat 8
+bump_and_normal_strength 0.2
+envmap_additive 0
+envmap_intensity 1
+envmap_rot_horizontal 0
+envmap_rot_vertical 0
+envmap_uv_scale 1
+norm normal_skin.png
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <DXOMARKER>
+        <FEATURE>0</FEATURE>
+        <WIDTH>768</WIDTH>
+        <HEIGHT>576</HEIGHT>
+        <ChartSurfThMin>200</ChartSurfThMin>
+    </DXOMARKER>
+    <DEADLEAVES>
+        <FEATURE>1</FEATURE>
+        <WIDTH>768</WIDTH>
+        <HEIGHT>576</HEIGHT>
+        <ChartSurfThMin>200</ChartSurfThMin>
+    </DEADLEAVES>
+    <VCX>
+        <FEATURE>2</FEATURE>
+        <WIDTH>768</WIDTH>
+        <HEIGHT>576</HEIGHT>
+        <ChartSurfThMin>200</ChartSurfThMin>
+    </VCX>
+	<FRAME_RATE>30</FRAME_RATE>
+</Config>
