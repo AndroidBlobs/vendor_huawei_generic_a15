@@ -1,0 +1,9 @@
+service hisee_mmi /vendor/bin/hw/hisee_mmi_service
+    class hal
+    user  system
+    group system root
+    disabled
+    oneshot
+    seclabel u:r:hal_hwfactoryinterface_default:s0
+on property:vendor.hisee.mmi=start
+    start hisee_mmi

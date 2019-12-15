@@ -1,0 +1,89 @@
+[
+  {
+    "color": [
+      1,
+      0.81750857830047607,
+      0.67528265714645386
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 0.060000002384185791,
+    "intensity_spec": 0,
+    "ltc_two_sided": true,
+    "name": "key",
+    "onnoff": true,
+    "rel_rot": [
+      -0.16391682624816895,
+      -0.55968159437179565,
+      0
+    ],
+    "rel_scale": [
+      2,
+      1
+    ],
+    "rel_trans": [
+      -0.26000002026557922,
+      0.081000000238418579,
+      0.41500002145767212
+    ],
+    "shadow_cast": false,
+    "type": "POINT"
+  },
+  {
+    "color": [
+      0,
+      1,
+      0.85357564687728882
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 5,
+    "intensity_spec": 0,
+    "ltc_two_sided": true,
+    "name": "fill",
+    "onnoff": true,
+    "rel_rot": [
+      0,
+      0.51831483840942383,
+      5
+    ],
+    "rel_scale": [
+      2,
+      2
+    ],
+    "rel_trans": [
+      1.9220000505447388,
+      0,
+      3.3700001239776611
+    ],
+    "shadow_cast": false,
+    "type": "POINT"
+  },
+  {
+    "color": [
+      0.95418095588684082,
+      0.3320290744304657,
+      0.86911815404891968
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 15,
+    "intensity_spec": 0.10000000149011612,
+    "ltc_two_sided": true,
+    "name": "back",
+    "onnoff": false,
+    "rel_rot": [
+      0.78539812564849854,
+      0,
+      0
+    ],
+    "rel_scale": [
+      1,
+      1
+    ],
+    "rel_trans": [
+      0,
+      -3,
+      3
+    ],
+    "shadow_cast": false,
+    "type": "AREA"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "color": [
+      1,
+      0.99999547004699707,
+      0.99999547004699707
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 60,
+    "intensity_spec": 0,
+    "ltc_two_sided": true,
+    "name": "key",
+    "onnoff": true,
+    "rel_rot": [
+      -0.42338442802429199,
+      0.57957017421722412,
+      0
+    ],
+    "rel_scale": [
+      2,
+      1
+    ],
+    "rel_trans": [
+      3.5482478141784668,
+      2.919625997543335,
+      5.4208602905273438
+    ],
+    "shadow_cast": true,
+    "type": "AREA"
+  },
+  {
+    "color": [
+      0.6497194766998291,
+      0.64971649646759033,
+      0.64971649646759033
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 5,
+    "intensity_spec": 0,
+    "ltc_two_sided": true,
+    "name": "fill",
+    "onnoff": false,
+    "rel_rot": [
+      0.22130310535430908,
+      0.23563686013221741,
+      5
+    ],
+    "rel_scale": [
+      2,
+      2
+    ],
+    "rel_trans": [
+      0.78767120838165283,
+      -0.75908130407333374,
+      3.2806386947631836
+    ],
+    "shadow_cast": false,
+    "type": "AREA"
+  },
+  {
+    "color": [
+      0.85357552766799927,
+      0.85357165336608887,
+      0.85357165336608887
+    ],
+    "ignore_ext_mv": true,
+    "intensity_diff": 12,
+    "intensity_spec": 0.10000000149011612,
+    "ltc_two_sided": true,
+    "name": "back",
+    "onnoff": false,
+    "rel_rot": [
+      0.27686715126037598,
+      -1.1001248359680176,
+      0
+    ],
+    "rel_scale": [
+      1,
+      1
+    ],
+    "rel_trans": [
+      -2.5719645023345947,
+      -0.82003051042556763,
+      1.3086436986923218
+    ],
+    "shadow_cast": false,
+    "type": "AREA"
+  }
+]

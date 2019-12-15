@@ -1,0 +1,5 @@
+7767517
+3 3
+Input            data             0 1 data 0=512 1=512 2=1
+Convolution      SRGAN_g/n1k1s1/c9 1 1 data Convolution14 0=1 1=1 2=1 3=1 4=0 5=1 6=1
+TanH             SRGAN_g/TanH     1 1 Convolution14 Convolution14_SRGAN_g/TanH

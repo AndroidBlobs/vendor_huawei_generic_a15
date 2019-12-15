@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG_PARA>
+        <MODEL_PATH value="/vendor/etc/camera/cnnmodel/bodyshaping/BodyPose_kirin980_216x216.cambricon"/>
+</CONFIG_PARA>
